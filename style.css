@@ -48,10 +48,12 @@
 
 .contact
 {
-    color: black;
+    color: #fff;
+    background-color: rgb(102, 101, 100);
+    border:1px solid white
 }
 footer
 {
-    background-color: black;
-    color: blanchedalmond;
+    background-color: white;
+    color: black;
 }
